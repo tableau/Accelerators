@@ -1,0 +1,5 @@
+FIELD LABEL,FIELD API NAME,DATA TYPE,PRIMARY KEY
+Id,id__c,Text,TRUE
+Order Month,order_month__c,Number,FALSE
+Sales Amount Target,sales_amount_target__c,Number,FALSE
+Sales Channel,sales_channel__c,Text,FALSE

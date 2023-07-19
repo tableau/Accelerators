@@ -1,0 +1,4 @@
+FIELD LABEL,FIELD API NAME,DATA TYPE,PRIMARY KEY
+Data Source Id,data_source_id__c,Text,TRUE
+Data Source Name,data_source_name__c,Text,FALSE
+Data Source URL,data_source_url__c,Text,FALSE

@@ -1,0 +1,4 @@
+DMO Name,API Name,Short Description
+Owner,tab_Owner__dlm,Stores the list of all opportunities owners.
+Data Source,tab_Data_Source__dlm,Stores user-friendly names of Salesforce orgs from where data was loaded.
+Sales Target,tab_Sales_Target__dlm,Stores the monthly sales amount target split by Sales channel.

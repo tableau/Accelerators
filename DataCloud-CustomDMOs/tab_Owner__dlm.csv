@@ -1,0 +1,23 @@
+FIELD LABEL,FIELD API NAME,DATA TYPE,PRIMARY KEY
+Owner ID,Id__c,Text,TRUE
+First Name,FirstName__c,Text,FALSE
+Last Name,LastName__c,Text,FALSE
+Full Name,Name__c,Text,FALSE
+Nickname,CommunityNickname__c,Text,FALSE
+Email,Email__c,Text,FALSE
+Owner Type,UserType__c,Text,FALSE
+Call Center ID,CallCenterId__c,Text,FALSE
+City,City__c,Text,FALSE
+Company Name,CompanyName__c,Text,FALSE
+Contact ID,ContactId__c,Text,FALSE
+Currency ISO Code,CurrencyIsoCode__c,Text,FALSE
+Department,Department__c,Text,FALSE
+Division,Division__c,Text,FALSE
+Employee Number,EmployeeNumber__c,Text,FALSE
+Ownername,Username__c,Text,FALSE
+Phone,Phone__c,Text,FALSE
+Photo,SmallPhotoUrl__c,Text,FALSE
+State/Province,State__c,Text,FALSE
+Street,Street__c,Text,FALSE
+Title,Title__c,Text,FALSE
+Zip/Postal Code,PostalCode__c,Tex,FALSE
